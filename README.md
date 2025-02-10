@@ -1,6 +1,6 @@
-# Projeto: "🧪 25-hidroxivitamina D em adultos mais velhos: quais fatores realmente importam?"
+# Projeto: "25-hidroxivitamina D em adultos mais velhos: quais fatores realmente importam?"
 
-# Project: "🧪 25-Hydroxyvitamin D in Older Adults: Which Factors Really Matter?"
+# Project: "25-Hydroxyvitamin D in Older Adults: Which Factors Really Matter?"
 
 ## 📊 Resumo | Summary
 
