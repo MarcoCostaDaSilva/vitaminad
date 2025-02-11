@@ -28,12 +28,12 @@ This project is a study that analyzed the prevalence of low serum levels of 25-h
 ## 📸 Materiais Visuais | Visual Materials
 
 
-# Apresentação do Projeto no XII Congresso de Geriatria e Gerontologia - GERP2022, no eixo de Epidemiologia
+## **Apresentação do Projeto no XII Congresso de Geriatria e Gerontologia - GERP2022, no eixo de Epidemiologia.**
 
 https://github.com/user-attachments/assets/fe965b45-7433-4658-ba2b-8e5a1f393ac5
 
 
-# Certificado de Apresentação do Projeto no XII Congresso de Geriatria e Gerontologia - GERP2022, no eixo de Epidemiologia
+## **Certificado de Apresentação do Projeto no XII Congresso de Geriatria e Gerontologia - GERP2022, no eixo de Epidemiologia.**
 
 ![GERP_2022_vitaminaD jpeg](https://github.com/user-attachments/assets/764fe7ef-5b8d-4cb1-acc7-5d0919550e95)
 
