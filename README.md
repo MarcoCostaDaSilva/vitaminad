@@ -12,9 +12,9 @@ This project is a study that analyzed the prevalence of low serum levels of 25-h
 
 ## 📌 Detalhes do Projeto | Project Details:
 
-- ✔️ Técnica estatística | Statistical technique: Regressão Logística Multivariável | Multivariable Logistic Regression.
-- ✔️ Projeto de Iniciação Científica - IC | Undergraduate Research Project.
-- ✔️ Co-orientação durante mestrado na UFSCAR | Co-supervision during master's at UFSCAR.
+- Técnica estatística | Statistical technique: Regressão Logística Multivariável | Multivariable Logistic Regression.
+- Projeto de Iniciação Científica - IC | Undergraduate Research Project.
+- Co-orientação durante mestrado na UFSCAR | Co-supervision during master's at UFSCAR.
 
 - 📄 Artigo publicado na revista Geriatric Nursing | Paper published in Geriatric Nursing: [Disponível aqui / Available here](https://www.sciencedirect.com/science/article/abs/pii/S0197457222000143?via%3Dihub)
 
